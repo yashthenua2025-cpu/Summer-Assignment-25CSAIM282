@@ -13,6 +13,7 @@ int main()
   printf("enter the value of N");
   scanf("%d",&n);
   result= sumNaturalnumber(n);
-  printf("sum of first %d natural number is = %d",n,result);
+  printf("sum of first %d natural number
+is = %d",n,result);
   return 0;
 }
